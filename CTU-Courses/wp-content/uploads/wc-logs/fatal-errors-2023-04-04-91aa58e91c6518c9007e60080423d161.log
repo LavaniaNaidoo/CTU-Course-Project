@@ -1,0 +1,4 @@
+2023-04-04T10:33:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\CTU-Courses\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-04-04T10:33:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\CTU-Courses\wp-content\plugins\elementor\includes\widgets\tabs.php on line 4
+
